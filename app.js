@@ -42,11 +42,6 @@ function total(){
     setInnerText('total', totalPrice);
 };
 
-// function handlePromoCode(){
-//     const actualPrice = document.getElementById('total');
-//     const discountedPrice = parseInt(actualPrice) * 0.9;
-//     document.getElementById("all-total").innerText = discountedPrice;
-// }
 
 document.getElementById("Promo-code-btn").addEventListener('click', function(){
     const code = document.getElementById('promo-code').value;
@@ -59,3 +54,33 @@ document.getElementById("Promo-code-btn").addEventListener('click', function(){
         alert("bou nai abr valentine?")
     }
 })
+    // function handlePromoCode(){
+        //     const actualPrice = document.getElementById('total');
+        //     const discountedPrice = parseInt(actualPrice) * 0.9;
+        //     document.getElementById("all-total").innerText = discountedPrice;
+        // }
+    // function handlePromoCode(){
+    //     const actualPrice = document.getElementById('total');
+    //     const discountedPrice = parseInt(actualPrice) * 0.9;
+    //     document.getElementById("all-total").innerText = discountedPrice;
+    // }
+    // function handlePromoCode(){
+    //     const actualPrice = document.getElementById('total');
+    //     const discountedPrice = parseInt(actualPrice) * 0.9;
+    //     document.getElementById("all-total").innerText = discountedPrice;
+    // }
+    // function handlePromoCode(){
+        //     const actualPrice = document.getElementById('total');
+        //     const discountedPrice = parseInt(actualPrice) * 0.9;
+        //     document.getElementById("all-total").innerText = discountedPrice;
+        // }
+    // function handlePromoCode(){
+    //     const actualPrice = document.getElementById('total');
+    //     const discountedPrice = parseInt(actualPrice) * 0.9;
+    //     document.getElementById("all-total").innerText = discountedPrice;
+    // }
+    // function handlePromoCode(){
+    //     const actualPrice = document.getElementById('total');
+    //     const discountedPrice = parseInt(actualPrice) * 0.9;
+    //     document.getElementById("all-total").innerText = discountedPrice;
+    // }
