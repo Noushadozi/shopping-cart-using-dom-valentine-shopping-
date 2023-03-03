@@ -84,3 +84,43 @@ document.getElementById("Promo-code-btn").addEventListener('click', function(){
     //     const discountedPrice = parseInt(actualPrice) * 0.9;
     //     document.getElementById("all-total").innerText = discountedPrice;
     // }
+    // function handlePromoCode(){
+    //     const actualPrice = document.getElementById('total');
+    //     const discountedPrice = parseInt(actualPrice) * 0.9;
+    //     document.getElementById("all-total").innerText = discountedPrice;
+    // }
+    // function handlePromoCode(){
+        //     const actualPrice = document.getElementById('total');
+        //     const discountedPrice = parseInt(actualPrice) * 0.9;
+        //     document.getElementById("all-total").innerText = discountedPrice;
+        // }
+    // function handlePromoCode(){
+    //     const actualPrice = document.getElementById('total');
+    //     const discountedPrice = parseInt(actualPrice) * 0.9;
+    //     document.getElementById("all-total").innerText = discountedPrice;
+    // }
+    // function handlePromoCode(){
+    //     const actualPrice = document.getElementById('total');
+    //     const discountedPrice = parseInt(actualPrice) * 0.9;
+    //     document.getElementById("all-total").innerText = discountedPrice;
+    // }
+    // function handlePromoCode(){
+    //     const actualPrice = document.getElementById('total');
+    //     const discountedPrice = parseInt(actualPrice) * 0.9;
+    //     document.getElementById("all-total").innerText = discountedPrice;
+    // }
+    // function handlePromoCode(){
+        //     const actualPrice = document.getElementById('total');
+        //     const discountedPrice = parseInt(actualPrice) * 0.9;
+        //     document.getElementById("all-total").innerText = discountedPrice;
+        // }
+    // function handlePromoCode(){
+    //     const actualPrice = document.getElementById('total');
+    //     const discountedPrice = parseInt(actualPrice) * 0.9;
+    //     document.getElementById("all-total").innerText = discountedPrice;
+    // }
+    // function handlePromoCode(){
+    //     const actualPrice = document.getElementById('total');
+    //     const discountedPrice = parseInt(actualPrice) * 0.9;
+    //     document.getElementById("all-total").innerText = discountedPrice;
+    // }
